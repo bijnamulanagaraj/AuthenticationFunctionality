@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin-right: 10px;
+}
